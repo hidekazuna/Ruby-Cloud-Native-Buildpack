@@ -1,0 +1,10 @@
+#Buildpack ID and metadata
+[buildpack]
+id = "com.examples.buildpacks.ruby"
+version = "0.0.1"
+name = "Ruby Buildpack"
+
+#Stack the buildpack will work with
+[[stacks]]
+id = ["io.buildpacks.stacks.bionic"]
+
