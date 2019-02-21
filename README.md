@@ -1,4 +1,4 @@
-This is the result of [Creating a Cloud Native Buildpack](https://buildpacks.io/docs/create-buildpack/).
+This is the result of [Creating a Cloud Native Buildpack](https://buildpacks.io/docs/create-buildpack/) before [Improving performance with caching](https://buildpacks.io/docs/create-buildpack/caching/).
 
 # How to use
 
